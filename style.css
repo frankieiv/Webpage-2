@@ -1,0 +1,24 @@
+h3{
+    color:darkred;
+    text-align:center;
+}
+
+h2,p{
+    border: none;
+    text-align: center;
+}
+.one{
+    background-color: #4fc5ce;
+    text-align:center;
+}
+.main{
+    display:flex;
+    justify-content:space-evenly; 
+    justify-content:  space-between;
+    flex-wrap:wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+}
